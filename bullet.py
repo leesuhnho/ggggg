@@ -211,3 +211,5 @@ class BulletManager:
 
     def get_bullets(self):
         return self.bullets
+    def get_dfie:
+        print("jefjef")
