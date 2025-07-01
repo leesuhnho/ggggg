@@ -157,6 +157,7 @@ def main():
     print("Game ended. Thanks for playing Elite Combat Arena!")
     pygame.quit()
     sys.exit()
+    #실험용 comit
 
 
 if __name__ == "__main__":
